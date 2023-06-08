@@ -2,7 +2,7 @@ import 'dart:async';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:pong/scorescreen.dart';
+import 'scorescreen.dart';
 import 'ball.dart';
 import 'brick.dart';
 import 'coverscreen.dart';
